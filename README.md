@@ -1,4 +1,4 @@
-👋 Hi, I’m Alexander it will good to pair sometime and grab a coffee!
+👋 Hi, I’m Alexander! i love pairing, let's pair sometime and grab a coffee!
 
 <!---
 alexanderbrown21/alexanderbrown21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
